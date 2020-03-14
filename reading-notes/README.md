@@ -1,8 +1,7 @@
 # reading-notes
-This is a repository for all of my notes from CodeFellows.
-## Code 401 - Advanced Software Development
-##### First Topic - [Resource](https://www.resource.com)
-- notes on first topic
-- notes on first topic
-- notes on first topic
 
+This is a repository for all of my notes from CodeFellows.
+
+## Code 401 - Advanced Software Development
+
+##### Class 01 - [Notes](https://JoelMWatson.github.io/reading-notes/class-01-reading)
