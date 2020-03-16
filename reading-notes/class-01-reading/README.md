@@ -1,4 +1,4 @@
-# Class 1 Reading
+# Class 01 Reading
 
 #### 1. Why would you want to run JavaScript code outside of a browser?
 
