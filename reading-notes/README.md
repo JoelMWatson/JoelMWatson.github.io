@@ -6,4 +6,4 @@ This is a repository for all of my notes from CodeFellows.
 
 ##### Class 01 - [Notes](https://JoelMWatson.github.io/reading-notes/class-01-reading)
 
-##### Class 01 - [Notes](https://JoelMWatson.github.io/reading-notes/class-02-reading)
+##### Class 02 - [Notes](https://JoelMWatson.github.io/reading-notes/class-02-reading)
