@@ -8,7 +8,7 @@ itself which can be rendered client or server side)
 
 #### What Express/HTTP operations map to CRUD operations?
 
-The express functions 
+The express functions that map to CRUD operations are .get(), .post(), .put(), and .delete().
 
 #### What does res.send() do?
 
