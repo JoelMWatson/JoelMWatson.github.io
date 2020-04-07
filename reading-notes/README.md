@@ -17,3 +17,5 @@ This is a repository for all of my notes from CodeFellows.
 #### Class 06 - [Notes](https://JoelMWatson.github.io/reading-notes/class-06-reading)
 
 #### Class 07 - [Notes](https://JoelMWatson.github.io/reading-notes/class-07-reading)
+
+#### Class 08 - [Notes](https://JoelMWatson.github.io/reading-notes/class-08-reading)
