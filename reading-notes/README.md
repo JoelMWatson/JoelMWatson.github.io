@@ -21,3 +21,5 @@ This is a repository for all of my notes from CodeFellows.
 #### Class 08 - [Notes](https://JoelMWatson.github.io/reading-notes/class-08-reading)
 
 #### Class 09 - [Notes](https://JoelMWatson.github.io/reading-notes/class-09-reading)
+
+#### Class 10 - [Notes](https://JoelMWatson.github.io/reading-notes/class-10-reading)
