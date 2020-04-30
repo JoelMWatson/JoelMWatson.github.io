@@ -1,6 +1,6 @@
-# reading-notes
+# Reading Notes
 
-This is a repository for all of my notes from CodeFellows.
+Reading notes on various topics
 
 ## Code 401 - Advanced Software Development
 
@@ -29,3 +29,5 @@ This is a repository for all of my notes from CodeFellows.
 #### Class 12 - [OAuth](https://JoelMWatson.github.io/reading-notes/class-12-reading)
 
 #### Class 13 - [Bearer Authorization](https://JoelMWatson.github.io/reading-notes/class-13-reading)
+
+#### Class 14 - [Access Control (ACL)](https://JoelMWatson.github.io/reading-notes/class-14-reading)
