@@ -31,3 +31,5 @@ Reading notes on various topics
 #### Class 13 - [Bearer Authorization](https://JoelMWatson.github.io/reading-notes/class-13-reading)
 
 #### Class 14 - [Access Control (ACL)](https://JoelMWatson.github.io/reading-notes/class-14-reading)
+
+#### Class 16 - [Trees)](https://JoelMWatson.github.io/reading-notes/class-15-reading)
