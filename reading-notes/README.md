@@ -33,3 +33,5 @@ Reading notes on various topics
 #### Class 14 - [Access Control (ACL)](https://JoelMWatson.github.io/reading-notes/class-14-reading)
 
 #### Class 15 - [Trees](https://JoelMWatson.github.io/reading-notes/class-15-reading)
+
+#### Class 16 - [Event Driven Applications](https://JoelMWatson.github.io/reading-notes/class-16-reading)
