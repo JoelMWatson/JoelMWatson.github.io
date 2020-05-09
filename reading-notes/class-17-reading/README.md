@@ -1,4 +1,4 @@
-#### [Home](https://joelmwatson.github.io) >> [Reading Notes](https://joelmwatson.github.io/reading-notes)
+#### [Home](https://joelmwatson.github.io) >> [Reading Notes](https://joelmwatson.github.io/reading-notes) >> [TCP Server](https://JoelMWatson.github.io/reading-notes/class-17-reading)
 
 ---
 
@@ -24,7 +24,7 @@ There can be multiple socket connections on a single socket server application.
 
 #### Can a socket connection application be connected to multiple socket servers?
 
-A socket connection application can only connect to one socket server.
+A socket connection application can only connect to one socket server at a time.
 
 #### Can an application be both a socket server and a socket connection?
 
