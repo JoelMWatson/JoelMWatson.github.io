@@ -1,4 +1,8 @@
-# Class 14 Reading: Access Control (ACL)
+#### [Home](https://joelmwatson.github.io) >> [Reading Notes](https://joelmwatson.github.io/reading-notes) >> [Access Control (ACL)](https://JoelMWatson.github.io/reading-notes/class-14-reading)
+
+#
+
+## Class 14 Reading: Access Control (ACL)
 
 #### Why is access control important? Describe an application that would need access control.
 

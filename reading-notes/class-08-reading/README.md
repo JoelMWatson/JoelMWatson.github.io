@@ -1,4 +1,8 @@
-# Class 08 Reading
+#### [Home](https://joelmwatson.github.io) >> [Reading Notes](https://joelmwatson.github.io/reading-notes) >> [Express Routers](https://JoelMWatson.github.io/reading-notes/class-08-reading)
+
+#
+
+## Class 08 Reading: Express Routers
 
 #### What is a benefit to using express.Router()?
 

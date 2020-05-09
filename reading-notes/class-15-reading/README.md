@@ -1,4 +1,8 @@
-# Class 15 Reading: Trees
+#### [Home](https://joelmwatson.github.io) >> [Reading Notes](https://joelmwatson.github.io/reading-notes) >> [Trees](https://JoelMWatson.github.io/reading-notes/class-15-reading)
+
+#
+
+## Class 15 Reading: Trees
 
 #### What is a leaf node? Why is it important to be able to find leaf nodes?
 

@@ -1,9 +1,12 @@
-# Class 07 Reading
+#### [Home](https://joelmwatson.github.io) >> [Reading Notes](https://joelmwatson.github.io/reading-notes) >> [Express Servers](https://JoelMWatson.github.io/reading-notes/class-07-reading)
 
+#
+
+## Class 07 Reading: Express Servers
 
 #### What code does the server actually run?
 
-The server runs all of the code that handles requests from clients and returns code to them (such as the webpage 
+The server runs all of the code that handles requests from clients and returns code to them (such as the webpage
 itself which can be rendered client or server side)
 
 #### What Express/HTTP operations map to CRUD operations?
@@ -16,7 +19,7 @@ When you run res.send() it actually sends the response back to the client from t
 
 #### What is the order of operations for the three categories of middleware (handler, application, route)?
 
-The order of operations with the three categories of middleware first takes the request runs the application 
+The order of operations with the three categories of middleware first takes the request runs the application
 middleware, then the router middleware runs, and lastly the handler middleware runs and finally the response
 is passed back.
 

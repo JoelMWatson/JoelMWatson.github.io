@@ -1,5 +1,8 @@
-# Class 05 Reading
+#### [Home](https://joelmwatson.github.io) >> [Reading Notes](https://joelmwatson.github.io/reading-notes) >> [LinkedLists](https://JoelMWatson.github.io/reading-notes/class-05-reading)
 
+#
+
+## Class 05 Reading: LinkedLists
 
 #### What is a data structure?
 
@@ -7,13 +10,13 @@ A data structure is a way that we store data in a computer like storing values i
 
 #### How is a Linked List different from an array?
 
-An array is a series of values that you can access at any point in the array. A linked list is a series of values where you only 
+An array is a series of values that you can access at any point in the array. A linked list is a series of values where you only
 have access to the head or the tail or both from which point you can iterate through the linked list using the links (references
 to the next and/or previous)
 
 #### What is one benefit a Linked List has over an array?
 
-Linked lists have a major benefit over arrays when it comes to inputing data in the middle of the list. The array has to shift many 
+Linked lists have a major benefit over arrays when it comes to inputing data in the middle of the list. The array has to shift many
 values around where the linked list only has to change a couple of references
 
 #### What data does a Node hold in a doubly Linked List?

@@ -1,4 +1,8 @@
-# Class 11 Reading
+#### [Home](https://joelmwatson.github.io) >> [Reading Notes](https://joelmwatson.github.io/reading-notes) >> [Stacks & Queues](https://JoelMWatson.github.io/reading-notes/class-11-reading)
+
+#
+
+## Class 11 Reading: Stacks & Queues
 
 #### Come up with an application scenario where you would want to use a stack.
 

@@ -1,7 +1,11 @@
-# Joel's GitHub Pages
+#### [Home](https://joelmwatson.github.io)
 
-This is a repository to create the github pages for my repositories
+#
+
+## Welcome
+
+Hello and welcome! Thank you for checking out my Github Pages.
 
 ##### [Reading Notes](https://joelmwatson.github.io/reading-notes/)
 
-##### [Wiki/Blog](https://github.com/JoelMWatson/JoelMWatson.github.io/wiki)
+##### [Blogs](https://joelmwatson.github.io/blogs/)

@@ -1,8 +1,10 @@
-# Reading Notes
+#### [Home](https://joelmwatson.github.io) >> [Reading Notes](https://joelmwatson.github.io/reading-notes)
 
-Reading notes on various topics
+#
 
-## Code 401 - Advanced Software Development
+## Reading Notes
+
+### Code 401 - Advanced Software Development
 
 #### Class 01 - [NPM & Node](https://JoelMWatson.github.io/reading-notes/class-01-reading)
 
@@ -35,3 +37,5 @@ Reading notes on various topics
 #### Class 15 - [Trees](https://JoelMWatson.github.io/reading-notes/class-15-reading)
 
 #### Class 16 - [Event Driven Applications](https://JoelMWatson.github.io/reading-notes/class-16-reading)
+
+#### Class 17 - [TCP Server](https://JoelMWatson.github.io/reading-notes/class-17-reading)
