@@ -1,6 +1,6 @@
 #### [Home](https://joelmwatson.github.io) >> [Reading Notes](https://joelmwatson.github.io/reading-notes) >> [Authentication & Encryption](https://JoelMWatson.github.io/reading-notes/class-10-reading)
 
-#
+---
 
 ## Class 10 Reading: Authentication & Encryption
 

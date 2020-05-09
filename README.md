@@ -1,6 +1,6 @@
 #### [Home](https://joelmwatson.github.io)
 
-#
+---
 
 ## Welcome
 

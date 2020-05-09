@@ -1,6 +1,6 @@
 #### [Home](https://joelmwatson.github.io) >> [Blogs](https://joelmwatson.github.io/blogs) >> [How to Solve Programming Problems](https://joelmwatson.github.io/blogs/blog-01)
 
-#
+---
 
 ## How to Solve Programming Problems
 

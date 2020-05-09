@@ -1,6 +1,6 @@
 #### [Home](https://joelmwatson.github.io) >> [Reading Notes](https://joelmwatson.github.io/reading-notes) >> [LinkedLists](https://JoelMWatson.github.io/reading-notes/class-05-reading)
 
-#
+---
 
 ## Class 05 Reading: LinkedLists
 

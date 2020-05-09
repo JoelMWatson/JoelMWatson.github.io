@@ -1,6 +1,6 @@
 #### [Home](https://joelmwatson.github.io) >> [Reading Notes](https://joelmwatson.github.io/reading-notes) >> [OAuth](https://JoelMWatson.github.io/reading-notes/class-12-reading)
 
-#
+---
 
 ## Class 12 Reading: OAuth
 

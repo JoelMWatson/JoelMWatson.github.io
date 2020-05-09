@@ -1,6 +1,6 @@
 #### [Home](https://joelmwatson.github.io) >> [Reading Notes](https://joelmwatson.github.io/reading-notes) >> [Joins & Virtual Joins](https://JoelMWatson.github.io/reading-notes/class-09-reading)
 
-#
+---
 
 ## Class 09 Reading: Joins & Virtual Joins
 

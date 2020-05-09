@@ -1,6 +1,6 @@
 #### [Home](https://joelmwatson.github.io) >> [Blogs](https://joelmwatson.github.io/blogs)
 
-#
+---
 
 ## Blogs
 

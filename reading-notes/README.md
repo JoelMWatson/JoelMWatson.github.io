@@ -1,6 +1,6 @@
 #### [Home](https://joelmwatson.github.io) >> [Reading Notes](https://joelmwatson.github.io/reading-notes)
 
-#
+---
 
 ## Reading Notes
 

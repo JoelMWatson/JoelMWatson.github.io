@@ -1,6 +1,6 @@
 #### [Home](https://joelmwatson.github.io) >> [Reading Notes](https://joelmwatson.github.io/reading-notes) >> [MongoDB & Mongoose](https://JoelMWatson.github.io/reading-notes/class-03-reading)
 
-#
+---
 
 ## Class 03 Reading: MongoDB & Mongoose
 

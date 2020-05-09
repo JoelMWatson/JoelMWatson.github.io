@@ -1,6 +1,6 @@
 #### [Home](https://joelmwatson.github.io) >> [Reading Notes](https://joelmwatson.github.io/reading-notes) >> [Protocols & REST](https://JoelMWatson.github.io/reading-notes/class-06-reading)
 
-#
+---
 
 ## Class 06 Reading: Protocols & REST
 

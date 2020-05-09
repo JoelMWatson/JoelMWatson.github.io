@@ -1,6 +1,6 @@
 #### [Home](https://joelmwatson.github.io) >> [Reading Notes](https://joelmwatson.github.io/reading-notes) >> [NPM & Node](https://JoelMWatson.github.io/reading-notes/class-01-reading)
 
-#
+---
 
 ## Class 01 Reading: NPM & Node
 

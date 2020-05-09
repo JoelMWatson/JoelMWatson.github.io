@@ -1,6 +1,6 @@
 #### [Home](https://joelmwatson.github.io) >> [Reading Notes](https://joelmwatson.github.io/reading-notes) >> [Interfaces & Middleware](https://JoelMWatson.github.io/reading-notes/class-04-reading)
 
-#
+---
 
 ## Class 04 Reading: Interfaces & Middleware
 

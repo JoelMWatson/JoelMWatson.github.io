@@ -1,6 +1,6 @@
 #### [Home](https://joelmwatson.github.io) >> [Reading Notes](https://joelmwatson.github.io/reading-notes) >> [Bearer Authorization](https://JoelMWatson.github.io/reading-notes/class-13-reading)
 
-#
+---
 
 ## Class 13 Reading: Bearer Authorization
 

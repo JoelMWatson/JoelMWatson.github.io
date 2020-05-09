@@ -1,6 +1,6 @@
 #### [Home](https://joelmwatson.github.io) >> [Blogs](https://joelmwatson.github.io/blogs) >> [The Engineering Career Coach 226](https://joelmwatson.github.io/blogs/blog-02)
 
-#
+---
 
 ## The Engineering Career Coach 226
 

@@ -1,6 +1,6 @@
 #### [Home](https://joelmwatson.github.io) >> [Reading Notes](https://joelmwatson.github.io/reading-notes) >> [JavaScript Review](https://JoelMWatson.github.io/reading-notes/class-02-reading)
 
-#
+---
 
 ## Class 02 Reading: JavaScript Review
 

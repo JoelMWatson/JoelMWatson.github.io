@@ -1,6 +1,6 @@
 #### [Home](https://joelmwatson.github.io) >> [Reading Notes](https://joelmwatson.github.io/reading-notes) >> [Access Control (ACL)](https://JoelMWatson.github.io/reading-notes/class-14-reading)
 
-#
+---
 
 ## Class 14 Reading: Access Control (ACL)
 

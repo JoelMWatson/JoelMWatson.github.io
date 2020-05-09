@@ -1,6 +1,6 @@
 #### [Home](https://joelmwatson.github.io) >> [Reading Notes](https://joelmwatson.github.io/reading-notes) >> [Event Driven Applications](https://JoelMWatson.github.io/reading-notes/class-16-reading)
 
-#
+---
 
 ## Class 16 Reading: Event Driven Applications
 
