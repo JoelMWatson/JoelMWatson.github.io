@@ -39,3 +39,5 @@
 #### Class 16 - [Event Driven Applications](https://JoelMWatson.github.io/reading-notes/class-16-reading)
 
 #### Class 17 - [TCP Server](https://JoelMWatson.github.io/reading-notes/class-17-reading)
+
+#### Class 18 - [Socket.io](https://JoelMWatson.github.io/reading-notes/class-18-reading)
