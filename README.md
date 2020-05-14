@@ -2,9 +2,7 @@
 
 ---
 
-## Welcome
-
-Hello and Welcome to my Github Pages! Thank you for checking it out.
+## Hello and Welcome to my Github Pages! Thank you for checking it out.
 
 ![Joel Watson](https://raw.githubusercontent.com/JoelMWatson/JoelMWatson.github.io/master/assets/Joel-2017.jpg)
 
