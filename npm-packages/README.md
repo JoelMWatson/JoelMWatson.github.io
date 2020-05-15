@@ -186,7 +186,7 @@ Get a full fake REST API without writing any code.
 
 ---
 
-## React & React
+## React & Redux
 
 ### [React](https://www.npmjs.com/package/react)
 
