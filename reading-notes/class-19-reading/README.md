@@ -1,4 +1,4 @@
-#### [Home](https://joelmwatson.github.io) >> [Reading Notes](https://joelmwatson.github.io/reading-notes) >> #### Class 19 - [Message Queues](https://JoelMWatson.github.io/reading-notes/class-19-reading)
+#### [Home](https://joelmwatson.github.io) >> [Reading Notes](https://joelmwatson.github.io/reading-notes) >> [Message Queues](https://JoelMWatson.github.io/reading-notes/class-19-reading)
 
 ---
 
