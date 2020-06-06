@@ -43,3 +43,7 @@
 #### Class 18 - [Socket.io](https://JoelMWatson.github.io/reading-notes/class-18-reading)
 
 #### Class 19 - [Message Queues](https://JoelMWatson.github.io/reading-notes/class-19-reading)
+
+#### Class 20 - [DnD Midterm](https://github.com/Dungeons-Developers/DnD-client)
+
+#### Class 21 - [Component Based UI](https://JoelMWatson.github.io/reading-notes/class-21-reading)
