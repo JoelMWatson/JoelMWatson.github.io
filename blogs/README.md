@@ -11,3 +11,5 @@
 #### [The Engineering Career Coach 226](https://joelmwatson.github.io/blogs/blog-02)
 
 #### [The Tech Blog Writer Podcast 1166](https://joelmwatson.github.io/blogs/blog-03)
+
+#### [Insertion Search Walkthrough](https://joelmwatson.github.io/blogs/blog-04)
