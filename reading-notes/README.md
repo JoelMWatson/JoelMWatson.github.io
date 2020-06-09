@@ -47,3 +47,5 @@
 #### Class 20 - [DnD Midterm](https://github.com/Dungeons-Developers/DnD-client)
 
 #### Class 21 - [Component Based UI](https://JoelMWatson.github.io/reading-notes/class-21-reading)
+
+#### Class 22 - [React Testing and Deployment](https://JoelMWatson.github.io/reading-notes/class-22-reading)
