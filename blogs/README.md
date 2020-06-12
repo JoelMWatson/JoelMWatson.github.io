@@ -12,4 +12,6 @@
 
 #### [The Tech Blog Writer Podcast 1166](https://joelmwatson.github.io/blogs/blog-03)
 
-#### [Insertion Search Walkthrough](https://joelmwatson.github.io/blogs/blog-04)
+#### [Insertion Sort Walkthrough](https://joelmwatson.github.io/blogs/blog-04)
+
+#### [Merge Sort Walkthrough](https://joelmwatson.github.io/blogs/blog-05)

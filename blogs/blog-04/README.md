@@ -1,4 +1,4 @@
-#### [Home](https://joelmwatson.github.io) >> [Blogs](https://joelmwatson.github.io/blogs) >> [The Tech Blog Writer Podcast 1166](https://joelmwatson.github.io/blogs/blog-04)
+#### [Home](https://joelmwatson.github.io) >> [Blogs](https://joelmwatson.github.io/blogs) >> [Insertion Sort Walkthrough](https://joelmwatson.github.io/blogs/blog-04)
 
 ---
 
