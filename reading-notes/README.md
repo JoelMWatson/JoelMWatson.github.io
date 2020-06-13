@@ -49,3 +49,5 @@
 #### Class 21 - [Component Based UI](https://JoelMWatson.github.io/reading-notes/class-21-reading)
 
 #### Class 22 - [React Testing and Deployment](https://JoelMWatson.github.io/reading-notes/class-22-reading)
+
+#### Class 23 - [Props and State](https://JoelMWatson.github.io/reading-notes/class-23-reading)
