@@ -15,3 +15,5 @@
 #### [Insertion Sort Walkthrough](https://joelmwatson.github.io/blogs/blog-04)
 
 #### [Merge Sort Walkthrough](https://joelmwatson.github.io/blogs/blog-05)
+
+#### [Quick Sort Walkthrough](https://joelmwatson.github.io/blogs/blog-06)
