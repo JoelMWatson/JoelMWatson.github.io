@@ -1,4 +1,4 @@
-#### [Home](https://joelmwatson.github.io) >> [Reading Notes](https://joelmwatson.github.io/reading-notes) >> Routing and Component Composition](https://JoelMWatson.github.io/reading-notes/class-24-reading)
+#### [Home](https://joelmwatson.github.io) >> [Reading Notes](https://joelmwatson.github.io/reading-notes) >> [Routing and Component Composition](https://JoelMWatson.github.io/reading-notes/class-24-reading)
 
 ---
 
