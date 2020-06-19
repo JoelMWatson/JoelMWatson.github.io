@@ -51,3 +51,5 @@
 #### Class 22 - [React Testing and Deployment](https://JoelMWatson.github.io/reading-notes/class-22-reading)
 
 #### Class 23 - [Props and State](https://JoelMWatson.github.io/reading-notes/class-23-reading)
+
+#### Class 24 - [Routing and Component Composition](https://JoelMWatson.github.io/reading-notes/class-24-reading)
