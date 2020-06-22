@@ -53,3 +53,5 @@
 #### Class 23 - [Props and State](https://JoelMWatson.github.io/reading-notes/class-23-reading)
 
 #### Class 24 - [Routing and Component Composition](https://JoelMWatson.github.io/reading-notes/class-24-reading)
+
+#### Class 25 - [HashTables](https://JoelMWatson.github.io/reading-notes/class-25-reading)
