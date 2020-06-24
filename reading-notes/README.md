@@ -55,3 +55,5 @@
 #### Class 24 - [Routing and Component Composition](https://JoelMWatson.github.io/reading-notes/class-24-reading)
 
 #### Class 25 - [HashTables](https://JoelMWatson.github.io/reading-notes/class-25-reading)
+
+#### Class 26 - [React Hooks API](https://JoelMWatson.github.io/reading-notes/class-26-reading)
