@@ -57,3 +57,5 @@
 #### Class 25 - [HashTables](https://JoelMWatson.github.io/reading-notes/class-25-reading)
 
 #### Class 26 - [React Hooks API](https://JoelMWatson.github.io/reading-notes/class-26-reading)
+
+#### Class 27 - [Custom Hooks](https://JoelMWatson.github.io/reading-notes/class-27-reading)
