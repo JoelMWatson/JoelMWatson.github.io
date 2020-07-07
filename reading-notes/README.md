@@ -61,3 +61,5 @@
 #### Class 27 - [Custom Hooks](https://JoelMWatson.github.io/reading-notes/class-27-reading)
 
 #### Class 28 - [React Context API](https://JoelMWatson.github.io/reading-notes/class-28-reading)
+
+#### Class 29 - [Application State with Redux](https://JoelMWatson.github.io/reading-notes/class-29-reading)
