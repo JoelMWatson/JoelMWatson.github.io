@@ -18,5 +18,5 @@
 - Disconnected Graph: A graph in which one or more vertices has zero edges.
 - Cyclic Graph: A graph that contains an endless loop or cycle
 - Acyclic Graph: A graph that contains no endless loops or cycles
-- Adjacency Matrix: A N x N matrix of boolean values showing whcih vertices connect to which FOR A GRAPH
-- Adjacency List: A list that shows all the connected vertices FOR A VERTEX.
+- Adjacency Matrix: A N x N matrix of boolean values showing which vertices connect to which.
+- Adjacency List: A list that shows all the connected vertices in a list.
