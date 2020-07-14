@@ -65,3 +65,5 @@
 #### Class 29 - [Application State with Redux](https://JoelMWatson.github.io/reading-notes/class-29-reading)
 
 #### Class 30 - [Graphs Vocabulary](https://JoelMWatson.github.io/reading-notes/class-30-reading)
+
+#### Class 31 - [Redux - Combined Reducers](https://JoelMWatson.github.io/reading-notes/class-31-reading)
