@@ -4,7 +4,7 @@
 
 ## Class 33 Reading: Redux - Additional Topics
 
-#### Reading Notes
+#### Redux Tool Kit
 
 While redux simplifies the masive task of state management in react, there are several
 areas where you have to create a lot of boiler plate code just to get redux working.

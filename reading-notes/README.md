@@ -70,4 +70,4 @@
 
 #### Class 32 - [Redux - Async Actions](https://JoelMWatson.github.io/reading-notes/class-32-reading)
 
-#### Class 32 - [Redux - Sdditional Topics](https://JoelMWatson.github.io/reading-notes/class-33-reading)
+#### Class 33 - [Redux - Additional Topics](https://JoelMWatson.github.io/reading-notes/class-33-reading)
