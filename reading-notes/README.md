@@ -71,3 +71,5 @@
 #### Class 32 - [Redux - Async Actions](https://JoelMWatson.github.io/reading-notes/class-32-reading)
 
 #### Class 33 - [Redux - Additional Topics](https://JoelMWatson.github.io/reading-notes/class-33-reading)
+
+#### Class 34 - [React Native](https://JoelMWatson.github.io/reading-notes/class-34-reading)
